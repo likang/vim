@@ -11,10 +11,10 @@ Bundle 'gmarik/vundle'
 
 Bundle 'vim-scripts/L9'
 Bundle 'vim-scripts/FuzzyFinder'
-"Bundle 'vim-scripts/AutoComplPop'
+Bundle 'vim-scripts/AutoComplPop'
 Bundle 'scrooloose/nerdcommenter'
-"Bundle 'ervandew/supertab'
-Bundle 'Shougo/neocomplcache'
+Bundle 'ervandew/supertab'
+"Bundle 'Shougo/neocomplcache'
 Bundle 'msanders/snipmate.vim'
 
 filetype plugin indent on     " required! 
